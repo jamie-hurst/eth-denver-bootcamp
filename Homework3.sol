@@ -1,5 +1,15 @@
 // SPDX-License-Identifier: None
 
+// Homework 3
+
+// 1. Add a variable to hold the address of the deployer of the contract
+// 2. Update that variable with the deployer's address when the contract is deployed.
+
+// 3. Write an external function to return
+//    1. Address 0x000000000000000000000000000000000000dEaD if called by the deplover
+//    2. The deployer's address otherwise
+
+
 pragma solidity 0.8.17;
 
 
